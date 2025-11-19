@@ -1,4 +1,4 @@
-# AR/VR Campus Viewer - README
+# AR/VR 3D model Viewer - README
 
 ## Project Overview
 An interactive 3D model viewer built with Three.js that supports both first-person and third-person navigation with physics simulation and collision detection.
